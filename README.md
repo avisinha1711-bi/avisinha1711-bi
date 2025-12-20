@@ -56,7 +56,7 @@ I'm a **"vibe coder"** – I code intuitively, learn by building, and enjoy the 
 ## 📚 Academic Snapshot
 
 - **NSEB 2024 (IBO Stage I) Qualifier** – Advanced understanding of biological concepts and experimental design.  
-- **JEE MAIN 2025 Chemistry – 97 Percentile** – Strong foundation in organic, inorganic, and physical chemistry.  
+- **JEE MAIN 2025 Chemistry – 97 Percentile** – Strong foundation in organic and physical chemistry.  
 - **CBSE Biology – 95/100** – Mastery in genetics, biotechnology, human physiology, and ecology.  
 - **Space Tech Quiz 2023 – Rank 1196** – Interest in interdisciplinary space-tech and life science applications.
 
