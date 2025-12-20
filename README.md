@@ -10,7 +10,7 @@ I thrive at the intersection of **life sciences** and **cutting-edge technology*
 
 | Achievement | Details |
 |-------------|---------|
-| **NSEB 2024 (IBO Stage I) Qualifier** | Qualified for the Indian Biology Olympiad's first stage, showcasing deep biological understanding. |
+| **NSEB 2024 (IBO Stage I) Qualifier** | Cleared the National Standard Examination for Biology which is International Biology Olympiad's first stage in India, showcasing deep biological understanding. |
 | **JEE MAIN 2025 Chemistry - 97 Percentile** | Ranked among the **top 3% nationally** in Chemistry. |
 | **CBSE Biology (2025) - 95/100** | Excellence in academic biology. |
 | **Mumbai Hacks 2025 Finalist** (Health-Tech) | Built innovative solutions for healthcare challenges. |
