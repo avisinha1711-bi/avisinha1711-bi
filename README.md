@@ -49,7 +49,6 @@ I'm a **"vibe coder"** – I code intuitively, learn by building, and enjoy the 
 
 1. Voice Acoustic Diagnosis of Parkinson's Disease.  
 2. PAS Detection of Cancer AI System prototype.
-3. Proposed code modification for Google DeepMind AlphaGenome.
 
 ---
 
