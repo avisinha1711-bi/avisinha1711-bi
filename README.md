@@ -74,7 +74,7 @@ I'm a **"vibe coder"** – I code intuitively, learn by building, and enjoy the 
 
 I'm always open to discussing **biotech startups, research ideas, hackathons, or innovative projects** at the bio-tech interface.
 
-- **GitHub:** https://github.com/avisinha1711-bi/*  
+- **GitHub:** https://github.com/avisinha1711-bi/  
 - **LinkedIn:** https://www.linkedin.com/in/sinh17  
 - **Email:** Avisinha1711@gmail.com  
 
