@@ -38,7 +38,6 @@ I'm a **"vibe coder"** – I code intuitively, learn by building, and enjoy the 
 `Biopython` 
 
 **Current Coding Vibe:**  
-- Automating biology lab workflows with scripts  
 - Exploring AI/ML for genomic data analysis  
 - Building simple web tools for educational biology/chemistry  
 - Contributing to open-source bioinformatics projects  
@@ -52,24 +51,6 @@ I'm a **"vibe coder"** – I code intuitively, learn by building, and enjoy the 
 
 ---
 
-## 📚 Academic Snapshot
-
-- **NSEB 2024 (IBO Stage I) Qualifier** – Advanced understanding of biological concepts and experimental design.  
-- **JEE MAIN 2025 Chemistry – 97th Percentile** – Strong foundation in organic and physical chemistry.  
-- **CBSE Biology – 95/100** – Mastery in genetics, biotechnology, human physiology, and ecology.  
-- **Space Tech Quiz 2023 – Rank 1196** – Interest in interdisciplinary space-tech and life science applications.
-
----
-
-## 🌱 Currently Exploring
-
-- Molecular Genetics.
-- AI-driven Biology. 
-- Biomolecules  
-- Building a digital garden for biology + tech notes
-
----
-
 ## 📫 Let's Connect & Collaborate
 
 I'm always open to discussing **biotech startups, research ideas, hackathons, or innovative projects** at the bio-tech interface.
@@ -77,8 +58,3 @@ I'm always open to discussing **biotech startups, research ideas, hackathons, or
 - **GitHub:** https://github.com/avisinha1711-bi/  
 - **LinkedIn:** https://www.linkedin.com/in/sinh17  
 - **Email:** Avisinha1711@gmail.com  
-
-
-
-*README crafted with ❤️ and a vibe for science & code.*  
-*"Where molecules meet machines."*
