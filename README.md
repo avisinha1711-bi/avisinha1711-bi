@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Avi Sinha
+#   Hello, I'm Avi Sinha
 
 **Biology & Technology Enthusiast | Student | Life Sciences Researcher | Vibe Coder**
 
@@ -6,7 +6,7 @@ I thrive at the intersection of **life sciences** and **cutting-edge technology*
 
 ---
 
-## 🏆 Highlights & Achievements
+##  Highlights & Achievements
 
 | Achievement | Details |
 |-------------|---------|
@@ -18,7 +18,7 @@ I thrive at the intersection of **life sciences** and **cutting-edge technology*
 
 ---
 
-## 🔬 Core Interests
+##   Core Interests
 
 - **Life Sciences & Genetics**  
 - **Biotechnology & Research**  
@@ -29,7 +29,7 @@ I thrive at the intersection of **life sciences** and **cutting-edge technology*
 
 ---
 
-## 💻 Tech & Coding
+##   Tech & Coding
 
 I'm a **"vibe coder"** – I code intuitively, learn by building, and enjoy the process of turning ideas into functional prototypes.
 
@@ -44,14 +44,14 @@ I'm a **"vibe coder"** – I code intuitively, learn by building, and enjoy the 
 
 ---
 
-## 🚀 Projects
+##   Projects
 
 1. Voice Acoustic Diagnosis of Parkinson's Disease.  
 2. PAS Detection of Cancer AI System prototype.
 
 ---
 
-## 📫 Let's Connect & Collaborate
+##   Let's Connect & Collaborate
 
 I'm always open to discussing **biotech startups, research ideas, hackathons, or innovative projects** at the bio-tech interface.
 
