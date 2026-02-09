@@ -34,8 +34,7 @@ I thrive at the intersection of **life sciences** and **cutting-edge technology*
 I'm a **"vibe coder"** – I code intuitively, learn by building, and enjoy the process of turning ideas into functional prototypes.
 
 **Languages & Tools I Vibe With:**  
-`Python` `JavaScript` `HTML/CSS` `Git` `Markdown` `Jupyter` `Streamlit` `FastAPI`  
-`Biopython` 
+`Python` `JavaScript` `HTML/CSS` `Git` 
 
 **Current Coding Vibe:**  
 - Exploring AI/ML for genomic data analysis  
