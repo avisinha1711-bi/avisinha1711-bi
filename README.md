@@ -47,6 +47,9 @@ I'm a **"vibe coder"** – I code intuitively, learn by building, and enjoy the 
 
 1. Voice Acoustic Diagnosis of Parkinson's Disease.  
 2. PAS Detection of Cancer AI System prototype.
+3. Proposed the code modification for implement input validation in produce method, NVIDIA Digital Biology.
+4. Proposed the code modification for increasing the Knowledge base of AlphaGenome, Google DeepMind.
+5. Proposed the code modification for introduction of Post Translational Modification in AlphaFold Inference pipeline, Google DeepMind.
 
 ---
 
